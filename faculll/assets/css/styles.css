@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    padding: 20px;
+    width: 400px;
+    height: auto;
+}
+
+h1 {
+    padding: auto;
+}
